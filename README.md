@@ -12,5 +12,10 @@ The app also keeps track of stock quantity and will let a user know if the produ
 
 
 
+Check the PNG files attached in order to see functionality.
+
+
+
+
 
 IN THE FUTURE: There will be a way for a manager to update quantity of stock and view purchases made. The manager will also be able to edit price information.
